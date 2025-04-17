@@ -48,7 +48,7 @@ Before running the project, you need to:
    FIELDS TERMINATED BY ',' 
    LINES TERMINATED BY '\n' 
    IGNORE 1 ROWS;
-3.** Run SQL queries:**
+3.**Run SQL queries:**
   Open and execute the SQL queries from the queries/ folder in your MySQL environment.
   These queries include detailed analysis on claims, policies, revenue, customer retention, and agent performance.
 
@@ -78,7 +78,7 @@ Before running the project, you need to:
 
     Customer retention trends and analysis.
 
- Example Insights:
+## Example Insights:
 Cross-sell potential between different insurance products.
 
 Performance gaps between agents, revealing opportunities for training.
@@ -113,7 +113,4 @@ Happy analyzing! 🚀
 
 
 
-
-
-
-You’ve hit the Free pl
+ 
