@@ -78,7 +78,7 @@ Before running the project, you need to:
 
     Customer retention trends and analysis.
 
-## Example Insights:
+ Example Insights:
 Cross-sell potential between different insurance products.
 
 Performance gaps between agents, revealing opportunities for training.
