@@ -87,7 +87,7 @@ Revenue patterns based on geographical location and policy types.
 
 Claim patterns and the correlation with customer satisfaction.
 
-##🎯 Key Skills Gained
+## 🎯 Key Skills Gained
 SQL Expertise: Advanced SQL techniques such as JOINs, GROUP BY, HAVING, subqueries, and complex aggregations.
 
 Data Transformation: Cleaning and preparing raw data for analysis.
@@ -96,15 +96,15 @@ Insight Extraction: Using SQL to identify key business insights from complex dat
 
 Optimized Queries: Focus on optimizing queries to improve performance and reduce execution time.
 
-##🧑‍💻 About Me
+## 🧑‍💻 About Me
 Hi, I'm Konni Devi, a passionate data analyst with a keen interest in SQL, business intelligence, and data storytelling. This project is part of my ongoing journey to apply SQL in real-world business analytics.
 
 Feel free to connect with me on LinkedIn and explore more of my projects on GitHub.
 
-##📂 License
+## 📂 License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-##🤝 Contributing
+## 🤝 Contributing
 Contributions are always welcome! If you'd like to contribute, feel free to open an issue or pull request.
 
 Happy analyzing! 🚀
