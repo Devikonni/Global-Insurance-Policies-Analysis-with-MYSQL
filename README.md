@@ -38,3 +38,82 @@ Before running the project, you need to:
    ```bash
    git clone https://github.com/Devikonni/Global-Insurance-Policies-Analysis-with-MYSQL
    cd Global-Insurance-Policies-Analysis-with-MYSQL
+   ## 🔄 How to Run the Project
+
+2. **Import the dataset**:  
+   To load the data, use the following SQL query (this may vary depending on your dataset format):
+   ```sql
+   LOAD DATA INFILE '/path_to_your_data.csv' 
+   INTO TABLE policies
+   FIELDS TERMINATED BY ',' 
+   LINES TERMINATED BY '\n' 
+   IGNORE 1 ROWS;
+3.** Run SQL queries:**
+  Open and execute the SQL queries from the queries/ folder in your MySQL environment.
+  These queries include detailed analysis on claims, policies, revenue, customer retention, and agent performance.
+
+  For example, open the queries/revenue_analysis.sql file and run it in your MySQL environment.
+
+4.**View the results:**
+   After running the queries, you will get valuable insights into the insurance business, such as claim patterns, agent performance, customer retention trends, etc.
+   You can view the results directly within the MySQL interface.
+
+## 🗂️ Project Structure**
+  /data/: Raw data files (CSV, SQL dumps, etc.) used for analysis.
+
+   /queries/: SQL query files for extracting and analyzing data (Revenue, Claims, Agent Performance, etc.).
+
+    /reports/: Analysis reports and SQL query outputs.
+
+    /scripts/: Optional SQL scripts for data cleaning, transformation, and optimization.
+
+## 📊 Reports & Visualizations
+    The project provides actionable insights through SQL query results, which include:
+
+     Revenue breakdown by policy type and region.
+
+     Claims data analysis across different policies and customer groups.
+
+   Agent performance tracking based on sales and claims data.
+
+    Customer retention trends and analysis.
+
+## Example Insights:
+Cross-sell potential between different insurance products.
+
+Performance gaps between agents, revealing opportunities for training.
+
+Revenue patterns based on geographical location and policy types.
+
+Claim patterns and the correlation with customer satisfaction.
+
+##🎯 Key Skills Gained
+SQL Expertise: Advanced SQL techniques such as JOINs, GROUP BY, HAVING, subqueries, and complex aggregations.
+
+Data Transformation: Cleaning and preparing raw data for analysis.
+
+Insight Extraction: Using SQL to identify key business insights from complex datasets.
+
+Optimized Queries: Focus on optimizing queries to improve performance and reduce execution time.
+
+##🧑‍💻 About Me
+Hi, I'm Konni Devi, a passionate data analyst with a keen interest in SQL, business intelligence, and data storytelling. This project is part of my ongoing journey to apply SQL in real-world business analytics.
+
+Feel free to connect with me on LinkedIn and explore more of my projects on GitHub.
+
+##📂 License
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+##🤝 Contributing
+Contributions are always welcome! If you'd like to contribute, feel free to open an issue or pull request.
+
+Happy analyzing! 🚀
+
+
+
+
+
+
+
+
+You’ve hit the Free pl
